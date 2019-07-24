@@ -14,5 +14,7 @@ while heada !== headb
   也同样判断 headb 有值没有，没有值就赋值 heada
 heada 和 headb 一样就返回 heada
 
+- 这样写 空间O(2) 时间O(n)
+
 ### 问题
 ...
